@@ -3,6 +3,6 @@ import { Injectable } from '@nestjs/common';
 @Injectable()
 export class AppService {
   getHello(): string {
-    return 'Deployment Changed Test again test [pl}';
+    return 'Graphql Attached ';
   }
 }
